@@ -1,0 +1,197 @@
+l<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body bgcolor="black"> 
+<p style="color: white;">Periodic Table Of The Elements</p>
+    <table border="1">
+        <tr>
+            <th bgcolor="aqua">H</th>
+            <th colspan="16"></th>
+        
+            <th bgcolor="DE8AFF">He</th>
+
+        </tr>
+        <tr>
+            <th bgcolor="red">Li</th>
+            <th bgcolor="FF9470">Be</th>
+            <th colspan="10"></th>
+            <th bgcolor="8BC7C5">B</th>
+            <th bgcolor="aqua">C</th>
+            <th bgcolor="aqua">N</th>
+            <th bgcolor="aqua">O</th>
+            <th bgcolor="A187AD">F</th>
+            <th bgcolor="DE8AFF">Ne</th>
+
+        </tr>
+        <tr>
+            <th bgcolor="red">Na</th>
+            <th bgcolor="FF9470">Mg</th>
+            <th colspan="10"></th>
+            <th bgcolor="0FC248">Al</th>
+            <th bgcolor="8BC7C5">Si</th>
+            <th bgcolor="aqua">S</th>
+            <th bgcolor="aqua">P</th>
+            <th bgcolor="A187AD">Cl</th>
+            <th bgcolor="DE8AFF">Ar</th>
+
+        </tr>
+        <tr>
+            <th bgcolor="red">K</th>
+            <th bgcolor="FF9470">Ca</th>
+            <th bgcolor="F7F392">Sc</th>
+            <th bgcolor="F7F392">Ti</th>
+            <th bgcolor="F7F392">V</th>
+            <th bgcolor="F7F392">Cr</th>
+            <th bgcolor="F7F392">Mn</th>
+            <th bgcolor="F7F392">Fe</th>
+            <th bgcolor="F7F392">Co</th>
+            <th bgcolor="F7F392">Ni</th>
+            <th bgcolor="F7F392">Cu</th>
+            <th bgcolor="F7F392">Zn</th>
+            <th  bgcolor="0FC248
+">Ga</th>
+            <th bgcolor="8BC7C5">Ge</th>
+            <th bgcolor="8BC7C5">As</th>
+            <th bgcolor="aqua">Se</th>
+            <th bgcolor="A187AD">Br</th>
+            <th bgcolor="DE8AFF">Kr</th>
+
+        </tr>
+        <tr>
+            <th bgcolor="red">Rb</th>
+            <th bgcolor="FF9470">Sr</th>
+            <th bgcolor="F7F392">Y</th>
+            <th bgcolor="F7F392">Zr</th>
+            <th bgcolor="F7F392">Nb</th>
+            <th bgcolor="F7F392">Tc</th>
+            <th bgcolor="F7F392">Mo</th>
+            <th bgcolor="F7F392">Ru</th>
+            <th bgcolor="F7F392">Rh</th>
+            <th bgcolor="F7F392">Pd</th>
+            <th bgcolor="F7F392">Ag</th>
+            <th bgcolor="F7F392">Cd</th>
+            <th bgcolor="0FC248
+">In</th>
+            <th bgcolor="0FC248
+">Sn</th>
+            <th bgcolor="8BC7C5">Sb</th>
+            <th bgcolor="8BC7C5">Te</th>
+            <th bgcolor="A187AD">I</th>
+            <th bgcolor="DE8AFF">Xe</th>
+
+        </tr>
+        <tr>
+            <th bgcolor="red">Cs</th>
+            <th bgcolor="FF9470">Ba</th>
+            <th bgcolor="8CA674
+"></th>
+            <th bgcolor="F7F392">Hf</th>
+            <th bgcolor="F7F392">Ta</th>
+            <th bgcolor="F7F392">W</th>
+            <th bgcolor="F7F392">Re</th>
+            <th bgcolor="F7F392">Os</th>
+            <th bgcolor="F7F392">Ir</th>
+            <th bgcolor="F7F392">Pt</th>
+            <th bgcolor="F7F392">Au</th>
+            <th bgcolor="F7F392">Hg</th>
+            <th bgcolor="0FC248
+">Ti</th>
+            <th bgcolor="0FC248
+">Pb</th>
+            <th bgcolor="0FC248
+">Bi</th>
+            <th bgcolor="8BC7C5">Po</th>
+            <th bgcolor="A187AD">At</th>
+            <th bgcolor="DE8AFF">Rn</th>
+
+        </tr>
+        <tr>
+            <th bgcolor="red">Fr</th>
+            <th bgcolor="FF9470">Ra</th>
+            <th bgcolor="0FC248"></th>
+            <th bgcolor="F7F392">Db</th>
+            <th bgcolor="F7F392">Sg</th>
+            <th bgcolor="F7F392">Bh</th>
+            <th bgcolor="F7F392">Hs</th>
+            <th bgcolor="F7F392">Mt</th>
+            <th bgcolor="F7F392">Ds</th>
+            <th bgcolor="F7F392">Rf</th>
+            <th bgcolor="F7F392">Rg</th>
+            <th bgcolor="F7F392">Cn</th>
+            <th bgcolor="0FC248
+">Uut</th>
+            <th bgcolor="0FC248
+">Fi</th>
+            <th bgcolor="0FC248
+">Uup</th>
+            <th bgcolor="0FC248
+">Lv</th>
+            <th bgcolor="A187AD">Uus</th>
+            <th bgcolor="DE8AFF">Uuo</th>
+
+        </tr>
+        <p>
+            <tr>
+                <th colspan="2"></th>
+                <th bgcolor="8CA674
+">La</th>
+                <th bgcolor="8CA674
+">Ce</th>
+                <th bgcolor="8CA674
+">Pr</th>
+                <th bgcolor="8CA674
+">Nd</th>
+                <th bgcolor="8CA674
+">Pm</th>
+                <th bgcolor="8CA674
+">Sm</th>
+                <th bgcolor="8CA674
+">Eu</th>
+                <th bgcolor="8CA674
+">Gd</th>
+                <th bgcolor="8CA674
+">Tb</th>
+                <th bgcolor="8CA674
+">Dy</th>
+                <th bgcolor="8CA674
+">Ho</th>
+                <th bgcolor="8CA674
+">Er</th>
+                <th bgcolor="8CA674
+">Tm</th>
+                <th bgcolor="8CA674
+">Yb</th>
+                <th bgcolor="8CA674
+">Lu</th>
+            </tr>
+            <tr>
+                <th colspan="2"></th>
+                <th bgcolor="0FC248">Ac</th>
+                <th bgcolor="0FC248">Th</th>
+                <th bgcolor="0FC248">Pa</th>
+                <th bgcolor="0FC248">U</th>
+                <th bgcolor="0FC248">Np</th>
+                <th bgcolor="0FC248">Pu</th>
+                <th bgcolor="0FC248">Am</th>
+                <th bgcolor="0FC248">Cm</th>
+                <th bgcolor="0FC248">Bk</th>
+                <th bgcolor="0FC248">Cf</th>
+                <th bgcolor="0FC248">Es</th>
+                <th bgcolor="0FC248">Fm</th>
+                <th bgcolor="0FC248">Md</th>
+                <th bgcolor="0FC248">No</th>
+                <th bgcolor="0FC248">Lr</th>
+            </tr>
+        </p>
+    </table>
+    </p>
+</body>
+
+</html>
+</body>
+</html>
